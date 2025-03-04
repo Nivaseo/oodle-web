@@ -1,2 +1,2 @@
-mkdir webhosting-server
-cd webhosting-server
+Server Setting an advanced way
+All necessary steps
